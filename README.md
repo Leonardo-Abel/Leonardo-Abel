@@ -2,7 +2,7 @@
 
 **`Estudante de programação`**
 
-Me chamo Leonardo Abel, tenho 22 anos e sou de São Paulo. Concluí o ensino médio no ITB (Instituto Técnico de Barueri), com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC (Faculdade de Tecnologia de São Paulo - Carapicuíba). Tenho gande paixão pela área e estou em busca de um estágio para ingressar na área e desenvolver minhas habilidades.
+Me chamo Leonardo Abel, tenho 22 anos e sou de São Paulo. Concluí o ensino médio no ITB (Instituto Técnico de Barueri), com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC (Faculdade de Tecnologia de São Paulo - Carapicuíba). Tenho gande paixão pela informática e estou em busca de um estágio para ingressar na área e desenvolver minhas habilidades.
 
 <p align="left">
     <!-- <a href="https://www.youtube.com/@Leon.A.K" target="_blank">
