@@ -55,14 +55,14 @@ Me chamo Leonardo Abel, tenho 22 anos e sou de São Paulo. Concluí o ensino mé
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
+<!--<img 
     align="left" 
     alt="Dart" 
     title="Dart"
     width="30px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
-/>
+/>-->
 <img 
     align="left" 
     alt="Java"
