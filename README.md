@@ -22,7 +22,7 @@ Me chamo Leonardo Abel, tenho 22 anos e sou de São Paulo. Concluí o ensino mé
     <a href = "mailto:leonardosrabel@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/leonardo-abel-0b47a1267/" target="_blank">
+    <a href="https://www.linkedin.com/in/leonardo-abel/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
 </p>
